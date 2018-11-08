@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM User WHERE rating > 1000;
